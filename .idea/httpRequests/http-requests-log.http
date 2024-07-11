@@ -1,0 +1,453 @@
+GET http://localhost:8080/trips/db5b49c0-1fc0-4eff-94ae-9649307d21d2db5b49c0-1fc0-4eff-94ae-9649307d21d2
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-07-11T194250.400.json
+
+###
+
+PUT http://localhost:8080/trips/db5b49c0-1fc0-4eff-94ae-9649307d21d2
+Content-Type: application/json
+Content-Length: 117
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "destination": "Apiaca, SC",
+  "starts_at": "2024-06-25T21:51:54.7342",
+  "ends_at": "2024-06-25T21:51:54.7342"
+}
+
+<> 2024-07-11T194214.200.json
+
+###
+
+PUT http://localhost:8080/trips/db5b49c0-1fc0-4eff-94ae-9649307d21d2
+Content-Type: application/json
+Content-Length: 205
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "destination": "Apiaca, SC",
+  "starts_at": "2024-06-25T21:51:54.7342",
+  "ends_at": "2024-06-25T21:51:54.7342",
+  "emails_to_invite": ["mayk.brito@rocketseat.com"],
+  "owner_name": "Fernanda Kipper"
+}
+
+<> 2024-07-11T194204.200.json
+
+###
+
+PUT http://localhost:8080/trips/db5b49c0-1fc0-4eff-94ae-9649307d21d2
+Content-Type: application/json
+Content-Length: 256
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "destination": "Apiaca, SC",
+  "starts_at": "2024-06-25T21:51:54.7342",
+  "ends_at": "2024-06-25T21:51:54.7342",
+  "emails_to_invite": ["mayk.brito@rocketseat.com"],
+  "owner_name": "Fernanda Kipper",
+  "owner_email": "fernanda.kipper@rocketseat.com"
+}
+
+<> 2024-07-11T194151.200.json
+
+###
+
+PUT http://localhost:8080/trips/db5b49c0-1fc0-4eff-94ae-9649307d21d2
+Content-Type: application/json
+Content-Length: 126
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "destination": "",
+  "starts_at": "",
+  "ends_at": "",
+  "emails_to_invite": [],
+  "owner_name": "",
+  "owner_email": ""
+}
+
+<> 2024-07-11T194112.500.json
+
+###
+
+POST http://localhost:8080/trips
+Content-Type: application/json
+Content-Length: 264
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "destination": "Florianópolis, SC",
+  "starts_at": "2024-06-25T21:51:54.7342",
+  "ends_at": "2024-06-25T21:51:54.7342",
+  "emails_to_invite": ["mayk.brito@rocketseat.com"],
+  "owner_name": "Fernanda Kipper",
+  "owner_email": "fernanda.kipper@rocketseat.com"
+}
+
+<> 2024-07-11T194031.200.json
+
+###
+
+PUT http://localhost:8080/trips/d03eeffc-f7ae-4fb4-b62f-2b0b2d7d8327
+Content-Length: 150
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+Content-Type: application/json
+
+{
+  "destination": "Apiacá, ES",
+  "starts_at": "2024-06-25T21:51:54.7342",
+  "ends_at": "2024-07-25T21:51:54.7342"
+}
+
+<> 2024-07-11T193707.415.json
+
+###
+
+GET http://localhost:8080/trips/d03eeffc-f7ae-4fb4-b62f-2b0b2d7d8327
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-07-11T193601.200.json
+
+###
+
+POST http://localhost:8080/trips
+Content-Type: application/json
+Content-Length: 264
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "destination": "Florianópolis, SC",
+  "starts_at": "2024-06-25T21:51:54.7342",
+  "ends_at": "2024-06-25T21:51:54.7342",
+  "emails_to_invite": ["mayk.brito@rocketseat.com"],
+  "owner_name": "Fernanda Kipper",
+  "owner_email": "fernanda.kipper@rocketseat.com"
+}
+
+<> 2024-07-11T193539.200.json
+
+###
+
+GET http://localhost:8080/trips/6f1e77fa-ff99-4ffd-b1e9-e2945b17951
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+GET http://localhost:8080/trips/6f1e77fa-ff99-4ffd-b1e9-e2945b17951
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+GET http://localhost:8080/trips/6f1e77fa-ff99-4ffd-b1e9-e2945b17951
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+PUT http://localhost:8080/trips/6f1e77fa-ff99-4ffd-b1e9-e2945b17951
+Content-Type: application/json
+Content-Length: 119
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "destination": "Apiacá, ES",
+  "starts_at": "2024-07-25T21:51:54.7342",
+  "ends_at": "2024-07-25T21:51:54.7342",
+}
+
+<> 2024-07-11T193323.400.json
+
+###
+
+GET http://localhost:8080/trips/6f1e77fa-ff99-4ffd-b1e9-e2945b17951
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+POST http://localhost:8080/trips
+Content-Type: application/json
+Content-Length: 264
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "destination": "Florianópolis, SC",
+  "starts_at": "2024-06-25T21:51:54.7342",
+  "ends_at": "2024-06-25T21:51:54.7342",
+  "emails_to_invite": ["mayk.brito@rocketseat.com"],
+  "owner_name": "Fernanda Kipper",
+  "owner_email": "fernanda.kipper@rocketseat.com"
+}
+
+<> 2024-07-11T193218.200.json
+
+###
+
+GET http://localhost:8080/trips/d470b9b7-0514-4528-ae22-b184f712b9c0
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-07-11T190625.200.json
+
+###
+
+POST http://localhost:8080/trips
+Content-Type: application/json
+Content-Length: 264
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "destination": "Florianópolis, SC",
+  "starts_at": "2024-06-25T21:51:54.7342",
+  "ends_at": "2024-06-25T21:51:54.7342",
+  "emails_to_invite": ["mayk.brito@rocketseat.com"],
+  "owner_name": "Fernanda Kipper",
+  "owner_email": "fernanda.kipper@rocketseat.com"
+}
+
+<> 2024-07-11T190604.200.json
+
+###
+
+GET http://localhost:8080/trips/2448fd57-a93a-46df-bb60-714858a224c7
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-07-11T190422.500.json
+
+###
+
+GET http://localhost:8080/trips/2448fd57-a93a-46df-bb60-714858a224c7
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-07-11T190414.500.json
+
+###
+
+GET http://localhost:8080/trips/2448fd57-a93a-46df-bb60-714858a224c7
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-07-11T190401.500.json
+
+###
+
+GET http://localhost:8080/trips/2448fd57-a93a-46df-bb60-714858a224c7
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-07-11T190339.500.json
+
+###
+
+POST http://localhost:8080/trips
+Content-Type: application/json
+Content-Length: 264
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "destination": "Florianópolis, SC",
+  "starts_at": "2024-06-25T21:51:54.7342",
+  "ends_at": "2024-06-25T21:51:54.7342",
+  "emails_to_invite": ["mayk.brito@rocketseat.com"],
+  "owner_name": "Fernanda Kipper",
+  "owner_email": "fernanda.kipper@rocketseat.com"
+}
+
+<> 2024-07-11T190319.200.json
+
+###
+
+POST http://localhost:8080/trips
+Content-Type: application/json
+Content-Length: 126
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "destination": "",
+  "starts_at": "",
+  "ends_at": "",
+  "emails_to_invite": [],
+  "owner_name": "",
+  "owner_email": ""
+}
+
+<> 2024-07-11T190223.500.json
+
+###
+
+POST http://localhost:8080/trips
+Content-Type: application/json
+Content-Length: 264
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "destination": "Florianópolis, SC",
+  "starts_at": "2024-06-25T21:51:54.7342",
+  "ends_at": "2024-06-25T21:51:54.7342",
+  "emails_to_invite": ["mayk.brito@rocketseat.com"],
+  "owner_name": "Fernanda Kipper",
+  "owner_email": "fernanda.kipper@rocketseat.com"
+}
+
+<> 2024-07-11T190052.200.json
+
+###
+
+POST http://localhost:8080/trips
+Content-Type: application/json
+Content-Length: 264
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "destination": "Florianópolis, SC",
+  "starts_at": "2024-06-25T21:51:54.7342",
+  "ends_at": "2024-06-25T21:51:54.7342",
+  "emails_to_invite": ["mayk.brito@rocketseat.com"],
+  "owner_name": "Fernanda Kipper",
+  "owner_email": "fernanda.kipper@rocketseat.com"
+}
+
+<> 2024-07-11T184655.200.txt
+
+###
+
+POST http://localhost:8080/trips
+Content-Type: application/json
+Content-Length: 264
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "destination": "Florianópolis, SC",
+  "starts_at": "2024-06-25T21:51:54.7342",
+  "ends_at": "2024-06-25T21:51:54.7342",
+  "emails_to_invite": ["mayk.brito@rocketseat.com"],
+  "owner_name": "Fernanda Kipper",
+  "owner_email": "fernanda.kipper@rocketseat.com"
+}
+
+<> 2024-07-11T184352.200.txt
+
+###
+
+POST http://localhost:8080/trips
+Content-Type: application/json
+Content-Length: 126
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "destination": "",
+  "starts_at": "",
+  "ends_at": "",
+  "emails_to_invite": [],
+  "owner_name": "",
+  "owner_email": ""
+}
+
+<> 2024-07-11T184156.500.json
+
+###
+
+POST http://localhost:8080/trips
+Content-Type: application/json
+Content-Length: 126
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "destination": "",
+  "starts_at": "",
+  "ends_at": "",
+  "emails_to_invite": [],
+  "owner_name": "",
+  "owner_email": ""
+}
+
+<> 2024-07-11T184133.500.json
+
+###
+
+POST http://localhost:8080/trips
+Content-Type: application/json
+Content-Length: 126
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "destination": "",
+  "starts_at": "",
+  "ends_at": "",
+  "emails_to_invite": [],
+  "owner_name": "",
+  "owner_email": ""
+}
+
+<> 2024-07-11T184100.500.json
+
+###
+
